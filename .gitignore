@@ -1,0 +1,16 @@
+# Python virtual environments
+venv/
+env/
+*.venv/
+emotion-ai/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
